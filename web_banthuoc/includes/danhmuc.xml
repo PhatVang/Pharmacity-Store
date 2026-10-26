@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories SYSTEM "danhmuc.dtd">
+<categories>
+    <category>
+        <id>1</id>
+        <name>Thuốc</name>
+    </category>
+    <category>
+        <id>2</id>
+        <name>Thực phẩm chức năng</name>
+    </category>
+    <category>
+        <id>3</id>
+        <name>Sơ cứu</name>
+    </category>
+    <category>
+        <id>4</id>
+        <name>Chăm sóc cá nhân
+</name>
+    </category>
+    <category>
+        <id>5</id>
+        <name>Dụng cụ y tế</name>
+    </category>
+    <category>
+        <id>6</id>
+        <name>Mẹ và Bé</name>
+    </category>
+    <category>
+        <id>8</id>
+        <name>Rau má</name>
+    </category>
+</categories>
